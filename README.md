@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rkzinn
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Java Script
